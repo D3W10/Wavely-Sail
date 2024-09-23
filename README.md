@@ -2,7 +2,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/D3W10/Wavely-Sail">
-        <img src="https://raw.githubusercontent.com/D3W10/Wavely-Sail/master/public/logo.svg" alt="Logo" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/D3W10/Wavely-Sail/main/public/logo.svg" alt="Logo" width="60" height="60">
     </a>
     <br />
     <br />
@@ -10,7 +10,7 @@
     <h3 align="center">Song downloader with metadata</h3>
     <br />
     <p align="center">
-        <a href="https://wavely-sail.vercel.app/">View Demo</a>
+        <a href="https://wavely-sail.vercel.app/">Visit Website</a>
         ·
         <a href="https://github.com/D3W10/Wavely-Sail/issues">Report Bug</a>
         ·
@@ -22,7 +22,7 @@
 ### Table of Contents
 1. [About](#about)
     - [Built With](#built-with)
-2. [Getting Started](#getting-started)
+2. [Development](#development)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 3. [License](#license)
@@ -47,7 +47,7 @@ Wavely Sail is a web application that let's you download songs with fully custom
 <br />
 <br />
 
-## Getting Started
+## Development
 
 In case you wanna deploy a copy of Wavely Sail on your device, follow the steps below to get started.
 
@@ -75,8 +75,8 @@ In order to run the application, you will need the following tools:
     ```
 4. Rename the file `.env.local.example` to `.env.local`
 5. Go to the [Spotify API Dashboard](https://developer.spotify.com/dashboard), create an app and get you client keys
-5. Place your Spotify API keys in `.env.local`
-6. Run the application
+6. Place your Spotify API keys in `.env.local`
+7. Run the application
     ```sh
     npm run dev
     ```
