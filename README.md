@@ -41,7 +41,7 @@ Wavely Sail is a web application that let's you download songs with fully custom
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
 <br />
